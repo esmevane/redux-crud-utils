@@ -1,0 +1,7 @@
+--colors
+--require babel-polyfill
+--require babel-core/register
+--growl
+--reporter spec
+--recursive
+lib/**/*-spec.js
